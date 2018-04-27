@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+  <Data>
+    <LicensedTo>RealWeb Corp.</LicensedTo>
+    <LicenseType>Developer OEM</LicenseType>
+    <LicenseNote>Limited to 1 developer.</LicenseNote>
+    <OrderID>111014021032</OrderID>
+    <OEM>This is a redistributable license</OEM>
+    <Products>
+      <Product>Aspose.Words for .NET</Product>
+    </Products>
+    <EditionType>Enterprise</EditionType>
+    <SerialNumber>7c21ba5e-ea1b-4a38-8594-a66d490f99d4</SerialNumber>
+    <SubscriptionExpiry>20121017</SubscriptionExpiry>
+    <LicenseVersion>2.2</LicenseVersion>
+  </Data>
+  <Signature>dEOJf8j57HqOJ96M6RitQvytbjioZIgi3bLhHxRa8DjcrgoXMNPhy4sUc+a/arF7BGAm/3HjjAT6YO28griEl29TP7tukQOnoCRvYsFhe/YFKC86BnRmXU0wSO35GwpDvg4amrRtzsB9qwoc6vGWSelFbe+5JT4w2wG9g9c4hUo=</Signature>
+</License>
