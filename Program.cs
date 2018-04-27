@@ -178,7 +178,7 @@ namespace Realweb
                     string url = "https://openapi.naver.com/v1/papago/detectLangs";
                     HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
                     request.Headers.Add("X-Naver-Client-Id", "id"); //use u are Id
-                    request.Headers.Add("X-Naver-Client-Secret", "password"); //use u are password
+                    request.Headers.Add("X-Naver-Client-Secret", "password"); //use u are password 
                     request.Method = "POST";
                     byte[] byteDataParams = Encoding.UTF8.GetBytes("query=" + query);
                     request.ContentType = "application/x-www-form-urlencoded";
