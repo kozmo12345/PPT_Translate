@@ -1,8 +1,8 @@
 # PPT_Translate
 
-It's powerpoint document translate program 
+Powerpoint document translate program
 japanese to english or korean
-by using papago that is naver system translate api.
+by using papago that is Naver translate api.
 
 If you want to use it
 you have to get a naver api id and password
